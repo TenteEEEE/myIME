@@ -1,4 +1,4 @@
-あいてむ	\item	名詞	
+﻿あいてむ	\item	名詞	
 あぺんでぃっくす	\appendix	名詞	
 いたりっく	\textit{}	名詞		
 いんたーてきすと	\intertext{}	名詞	
@@ -32,7 +32,6 @@
 ぼーるど	\textbf{}	名詞	
 よこすぺーす	\hspace{mm}	名詞	
 るび	\ruby{}{}	名詞	
-れーべる	\label{}	名詞	
 れーべる	\label{:}	名詞	
 れふ	\ref{}	名詞	
 ろーまん	\textrm{}	名詞	
